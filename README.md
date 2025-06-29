@@ -10,5 +10,11 @@ https://areweturboyet.com/
 
 New Insights since Turbo is now Production Ready! 
 
+Official Page of each solution:
+
+https://turborepo.com/
+
+https://nx.dev/
+
 Source:
 https://www.reddit.com/r/reactjs/comments/yhzf3f/nx_vs_turborepo_concerned_about_betting_on_either/
