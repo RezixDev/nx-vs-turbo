@@ -1,2 +1,3 @@
-# nx-vs-turbo
-NX vs Turbo
+# NX vs Turbo
+
+How to manage your Packages Workspace
